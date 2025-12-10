@@ -1,8 +1,3 @@
-# Hackathon : Reinforcement Learning for Drone Navigation
-
-*Your task is to develop a Reinforcement Learning (RL) algorithm to teach drones how to autonomously navigate a grid environment, reaching their objective as quickly as possible while avoiding obstacles. The environment includes walls and dynamic obstacles, which the drones must avoid to successfully complete their mission.*
-
-<img src="img/env.png" alt="Example of environment" style="width:300px; display: block; margin: 0 auto"/>
 
 ## 🌍 Project overview
 
@@ -158,9 +153,3 @@ Your performance will be evaluated on the following:
 - **20%** Learning curve & strategy: the `train()` function will automatically generate `reward_curve_per_episode.png` displaying the reward curve over episodes. The most efficient learning agents will be rewarded, i.e. the ones that require fewer episodes to converge or reach an optimal state.
 
 
-## 🏁 Good Luck!
-We hope this will help you get started on your one-week journey to build intelligent drone navigation agent. Be creative with your approach, experiment with different algorithms, and don’t forget to have fun!
-
-Feel free to reach out if you have any questions or need assistance during the hackathon at contact.hackathon-ai.ah@airbus.com
-
-Happy coding! 🤖
